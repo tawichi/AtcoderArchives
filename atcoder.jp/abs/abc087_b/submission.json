@@ -1,0 +1,12 @@
+{
+	"id": 12834505,
+	"epoch_second": 1588615457,
+	"problem_id": "abc087_b",
+	"contest_id": "abs",
+	"user_id": "tawichi",
+	"language": "Dart (2.7.2)",
+	"point": 200,
+	"length": 438,
+	"result": "AC",
+	"execution_time": 19
+}
