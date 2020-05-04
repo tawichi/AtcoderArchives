@@ -1,0 +1,8 @@
+import 'dart:io';
+
+void main() {
+    final List<int> inputs = stdin.readLineSync().split(' ')
+                                   .map((i) => int.parse(i)).toList();
+    if((inputs[0] * inputs[1]) % 2 == 0) print("Even");
+    else print("Odd");
+}
