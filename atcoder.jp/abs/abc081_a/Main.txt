@@ -1,0 +1,15 @@
+import "dart:io";
+
+void main(){
+  String row = stdin.readLineSync();
+  var answer = 0;
+  for (int i = 0;i < row.length ;++i){
+    if (row[i] == "1"){
+      ++answer;
+    }
+  }
+  print(answer);
+}
+    
+       
+    
