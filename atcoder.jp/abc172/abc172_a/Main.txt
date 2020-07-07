@@ -1,0 +1,9 @@
+import 'dart:io';
+import 'dart:math';
+
+void main(){
+  int a = int.parse(stdin.readLineSync());
+  int a2= pow(a,2);
+  int a3 = pow(a,3);
+  print(a+a2+a3);
+}
