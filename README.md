@@ -1,2 +1,2 @@
 # AtcoderArchives
-競プロ(主にatcoderの提出かんり
+競プロ(主にatcoderの提出管理
